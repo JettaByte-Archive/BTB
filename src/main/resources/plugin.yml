@@ -1,0 +1,8 @@
+name: BTB
+version: 21100101
+main: jettabyte.btb.BTB
+api-version: 1.17
+prefix: [ BTB ]
+authors: [ JettaByte ]
+description: Better-Vanilla
+website: ingpungya.cf
