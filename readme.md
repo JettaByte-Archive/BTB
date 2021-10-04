@@ -1,2 +1,2 @@
-## BTB 1.17 Preview (21100101)
-### Warnning! This ver is very very unstable!
+## BTB 1.17 Preview (Beta 21100101)
+### 🔥🚢
